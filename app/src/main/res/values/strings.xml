@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OpenWeatherApp</string>
+    <string name="go">Go</string>
+    <string name="weather_celcius_units"><![CDATA[ %s \u00B0 C ]]></string>
 </resources>

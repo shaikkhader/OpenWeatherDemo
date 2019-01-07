@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Copyright (c) $year. Philips India Ltd.
+  ~  All rights reserved. Reproduction in whole or in part is prohibited
+  ~  without the written consent of the copyright holder.
+  ~
+  -->
+
+<resources>
+    <dimen name="dimen_large">20sp</dimen>
+    <dimen name="weather_list_item_height">100dp</dimen>
+    <dimen name="default_fragment_margin">16dp</dimen>
+</resources>
