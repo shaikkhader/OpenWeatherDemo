@@ -50,7 +50,7 @@ public class WeatherListViewModel extends ViewModel {
         }
     }
 
-    LiveData<Boolean> getError() {
+    public LiveData<Boolean> getError() {
         return weatherDataLoadError;
     }
 
@@ -58,7 +58,7 @@ public class WeatherListViewModel extends ViewModel {
         return weather;
     }
 
-    LiveData<Boolean> getLoading() {
+    public LiveData<Boolean> getLoading() {
         return loading;
     }
 
